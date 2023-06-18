@@ -1,0 +1,8 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-basic-data-types
+
+https://www.hackerrank.com/challenges/list-comprehensions/problem/
+https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem/
+https://www.hackerrank.com/challenges/nested-list/problem/
+https://www.hackerrank.com/challenges/finding-the-percentage/problem/
+https://www.hackerrank.com/challenges/python-lists/problem/
+https://www.hackerrank.com/challenges/python-tuples/problem/
