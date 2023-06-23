@@ -1,0 +1,8 @@
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math
+
+https://www.hackerrank.com/challenges/polar-coordinates/problem/
+https://www.hackerrank.com/challenges/triangle-quest-2/problem/
+https://www.hackerrank.com/challenges/python-mod-divmod/problem/
+https://www.hackerrank.com/challenges/python-power-mod-power/problem/
+https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem/
+https://www.hackerrank.com/challenges/python-quest-1/problem/
