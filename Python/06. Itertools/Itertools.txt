@@ -1,0 +1,9 @@
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools
+
+https://www.hackerrank.com/challenges/itertools-product/problem/
+https://www.hackerrank.com/challenges/itertools-permutations/problem/
+https://www.hackerrank.com/challenges/itertools-combinations/problem/
+https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem/
+https://www.hackerrank.com/challenges/compress-the-string/problem/
+https://www.hackerrank.com/challenges/iterables-and-iterators/problem/
+https://www.hackerrank.com/challenges/maximize-it/problem/
