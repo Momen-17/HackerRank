@@ -1,0 +1,10 @@
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections
+
+https://www.hackerrank.com/challenges/collections-counter/problem/
+https://www.hackerrank.com/challenges/defaultdict-tutorial/problem/
+https://www.hackerrank.com/challenges/py-collections-namedtuple/problem/
+https://www.hackerrank.com/challenges/py-collections-ordereddict/problem/
+https://www.hackerrank.com/challenges/word-order/problem/
+https://www.hackerrank.com/challenges/py-collections-deque/problem/
+https://www.hackerrank.com/challenges/most-commons/problem/
+https://www.hackerrank.com/challenges/piling-up/
