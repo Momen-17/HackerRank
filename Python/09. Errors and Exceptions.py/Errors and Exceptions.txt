@@ -1,0 +1,4 @@
+https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=errors-exceptions
+
+https://www.hackerrank.com/challenges/exceptions/problem/
+https://www.hackerrank.com/challenges/incorrect-regex/problem/
