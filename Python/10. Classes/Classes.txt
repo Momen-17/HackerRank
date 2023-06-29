@@ -1,0 +1,4 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-classes
+
+https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem/
+https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem/
