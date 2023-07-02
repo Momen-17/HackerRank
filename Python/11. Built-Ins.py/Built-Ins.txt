@@ -1,0 +1,8 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-built-ins
+
+https://www.hackerrank.com/challenges/zipped/
+https://www.hackerrank.com/challenges/input/
+https://www.hackerrank.com/challenges/python-eval/
+https://www.hackerrank.com/challenges/python-sort-sort/
+https://www.hackerrank.com/challenges/any-or-all/
+https://www.hackerrank.com/challenges/ginorts/
