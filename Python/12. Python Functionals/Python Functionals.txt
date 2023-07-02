@@ -1,0 +1,5 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-functionals
+
+https://www.hackerrank.com/challenges/map-and-lambda-expression/
+https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/
+https://www.hackerrank.com/challenges/reduce-function/
