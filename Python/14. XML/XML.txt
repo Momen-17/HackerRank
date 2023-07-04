@@ -1,0 +1,4 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=xml
+
+https://www.hackerrank.com/challenges/xml-1-find-the-score/
+https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/
