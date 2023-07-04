@@ -1,0 +1,4 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=closures-and-decorators
+
+https://www.hackerrank.com/challenges/decorators-2-name-directory/
+https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/
