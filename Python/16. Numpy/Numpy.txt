@@ -1,0 +1,17 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=numpy
+
+https://www.hackerrank.com/challenges/np-arrays/
+https://www.hackerrank.com/challenges/np-shape-reshape/
+https://www.hackerrank.com/challenges/np-transpose-and-flatten/
+https://www.hackerrank.com/challenges/np-concatenate/
+https://www.hackerrank.com/challenges/np-zeros-and-ones/
+https://www.hackerrank.com/challenges/np-eye-and-identity/
+https://www.hackerrank.com/challenges/np-array-mathematics/
+https://www.hackerrank.com/challenges/floor-ceil-and-rint/
+https://www.hackerrank.com/challenges/np-sum-and-prod/
+https://www.hackerrank.com/challenges/np-min-and-max/
+https://www.hackerrank.com/challenges/np-mean-var-and-std/
+https://www.hackerrank.com/challenges/np-dot-and-cross/
+https://www.hackerrank.com/challenges/np-inner-and-outer/
+https://www.hackerrank.com/challenges/np-polynomials/
+https://www.hackerrank.com/challenges/np-linear-algebra/
