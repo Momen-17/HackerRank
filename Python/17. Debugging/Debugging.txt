@@ -1,0 +1,4 @@
+https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-debugging
+
+https://www.hackerrank.com/challenges/words-score/
+https://www.hackerrank.com/challenges/default-arguments/
